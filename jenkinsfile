@@ -1,7 +1,11 @@
-pipelines {
+pipeline {
 
 admin
-	new {
-        
-    }
+
+{
+
+	}
+
+
+
 }
